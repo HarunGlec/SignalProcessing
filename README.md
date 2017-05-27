@@ -6,4 +6,4 @@ The studies on the signal processing has been uploaded here for archiving. All w
 
 **Thanks :**
 
-Thanks to *Törehan Haytoğlu* for his contribution.
+Thanks to *A.Törehan Haytoğlu* for his contribution.
